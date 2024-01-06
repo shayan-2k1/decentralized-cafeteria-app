@@ -1,3 +1,4 @@
+# decentralized-cafeteria-app
 A decentralized web3 application for the management of FAST Cafeteria Shopping System.<br/>
 Key functionalities revolve around the following:<br/>
 -> Smart Contracts.<br/>
