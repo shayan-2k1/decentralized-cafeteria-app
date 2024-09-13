@@ -4,4 +4,3 @@ Key functionalities revolve around the following:<br/>
 -> Smart Contracts.<br/>
 -> Inter-Contract Functionality.<br/>
 -> ERC20 Standard Token Implementation for 'FastCoin'.<br/>
--> Web3 application implemented in React.<br/>
